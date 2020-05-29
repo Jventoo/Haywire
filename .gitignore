@@ -77,5 +77,5 @@ DerivedDataCache/*
 #*.uasset
 *.zip
 Content/*/*
-#!Content/Haywire/*
+!Content/Haywire/*
 *.fbx
