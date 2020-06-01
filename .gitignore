@@ -80,4 +80,5 @@ Content/*/*
 !Content/Haywire/*
 !Content/ModSci_Engineer/*
 !Content/ModSci_EngiProps/*
+!Content/ModSciInteriors/*
 *.fbx
