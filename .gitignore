@@ -78,4 +78,5 @@ DerivedDataCache/*
 *.zip
 Content/*/*
 !Content/Haywire/*
+!Content/ModSci_Engineer/*
 *.fbx
